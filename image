@@ -5,7 +5,7 @@
  
 
 <h2>HTML Image</h2>
-<img src="img/img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="/var/www/html/image1/img/img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 
  
 
